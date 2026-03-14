@@ -26,7 +26,7 @@ A simple Node.js + Express demo that uses **Passport.js** and **Google OAuth 2.0
 
 ```bash
 git clone https://github.com/N3k0sint/Google-OAuth-2.0
-cd "Google Auth 2.0"
+cd "Google OAuth 2.0"
 ```
 
 ### 2) Install dependencies
