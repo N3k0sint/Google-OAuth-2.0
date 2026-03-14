@@ -1,4 +1,3 @@
-
 # Google Auth 2.0
 
 A simple Node.js + Express demo that uses **Passport.js** and **Google OAuth 2.0** to authenticate users and render protected pages with **EJS**.
@@ -26,7 +25,7 @@ A simple Node.js + Express demo that uses **Passport.js** and **Google OAuth 2.0
 ### 1) Clone the repo
 
 ```bash
-git clone https://github.com/N3k0sint/Google-OAuth-2.0
+git clone <your-repo-url>
 cd "Google Auth 2.0"
 ```
 
